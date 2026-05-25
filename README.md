@@ -2,12 +2,13 @@
 
 I build tools I wish existed — fonts, themes, and desktop apps.
 
-- 🔤 **[Ioskeley Mono]([https://github.com/ahatem/IoskeleyMono](https://ahatem.github.io/IoskeleyMono/)** — a free alternative to Berkeley Mono, built on Iosevka. Used by 1,000+ developers.
-- 🌐 **[QTranslate]([https://github.com/ahatem/qtranslate](https://qtranslate-app.web.app/)** — a fast, extensible desktop translation suite with OCR, TTS, and spell check.
-- 🎨 **[Kintsugi]([https://github.com/ahatem/vscode-kintsugi](https://marketplace.visualstudio.com/items?itemName=ahmedhatem.kintsugi)** — a sophisticated dark theme for VS Code, inspired by Japanese minimalism.
-- 🌑 **[Eclipse Color Themes](https://eclipse-color-themes.vercel.app)** — a theme site for Eclipse IDE, backed by an [open-source plugin](https://github.com/ahatem/eclipse-themes-plugin) that brings popular editor themes to Eclipse.
+- 🔤 **[Ioskeley Mono](https://ahatem.github.io/IoskeleyMono/)** — a free alternative to Berkeley Mono, built on Iosevka. Used by 1,000+ developers.
+- 🌐 **[QTranslate](https://qtranslate-app.web.app/)** — a fast, extensible desktop translation suite with OCR, TTS, and spell check.
+- 🎨 **[Kintsugi](https://marketplace.visualstudio.com/items?itemName=ahmedhatem.kintsugi)** — a dark theme for VS Code inspired by Japanese minimalism.
+- 🌑 **[Eclipse Color Themes](https://eclipse-color-themes.vercel.app/)** — a theme gallery for Eclipse IDE, backed by an [open-source plugin](https://github.com/ahatem/eclipse-themes-plugin) that brings editor themes to Eclipse.
+
 ---
 
-If any of my work saves you time or money, a coffee goes a long way!
+If any of my work saves you time or money, a coffee goes a long way.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ahmedhatem-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahmedhatem)
