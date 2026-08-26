@@ -9,6 +9,6 @@ I build tools I wish existed — fonts, themes, and desktop apps.
 
 ---
 
-If any of my work saves you time or money, a coffee goes a long way.
+These projects are free, and most are open source. If one of them saves you time, you can support the work that keeps it going.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ahmedhatem-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahmedhatem)
